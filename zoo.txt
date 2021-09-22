@@ -1,0 +1,16 @@
+Protovis
+stream graph
+stacked graph
+horizon graph
+Parallel Coordinates
+cartographic projection
+flow map
+Graduated Symbol Maps
+Node-link Diagrams
+dendrogram 
+indented tree
+Adjacency Diagrams
+Enclosure Diagrams
+orce-directed layout 
+arc diagram
+adjacency matrix
